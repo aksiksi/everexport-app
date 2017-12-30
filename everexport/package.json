@@ -1,0 +1,26 @@
+{
+  "name": "everexport",
+  "version": "0.0.2",
+  "description": "An Evernote note exporter API.",
+  "main": "everexport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksiksi/everexport.git"
+  },
+  "keywords": [
+    "Evernote",
+    "export"
+  ],
+  "author": "Assil Ksiksi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aksiksi/everexport/issues"
+  },
+  "homepage": "https://github.com/aksiksi/everexport#readme",
+  "dependencies": {
+    "evernote": "2.0.3"
+  }
+}

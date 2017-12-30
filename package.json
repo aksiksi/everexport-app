@@ -1,4 +1,5 @@
 {
+    "private": true,
     "name": "everexport-app",
     "version": "0.0.1",
     "description": "An app that simplifies exporting notes from Evernote.",
@@ -11,6 +12,7 @@
         "electron": "~1.7.8"
     },
     "dependencies": {
-        "evernote": "2.0.3"
+        "evernote": "2.0.3",
+        "everexport": ">=0.0.2"
     }
 }
